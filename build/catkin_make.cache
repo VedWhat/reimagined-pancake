@@ -1,0 +1,2 @@
+chap5:robot1_description:robot1_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/ved/b/devel -DCMAKE_INSTALL_PREFIX=/home/ved/b/install -G Unix Makefiles

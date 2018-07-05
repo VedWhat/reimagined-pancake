@@ -1,0 +1,8 @@
+prefix=/home/ved/b/install
+
+Name: robot1_gazebo
+Description: Description of robot1_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ved/b/install/lib 
+Requires: 

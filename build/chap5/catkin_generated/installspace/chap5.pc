@@ -1,0 +1,8 @@
+prefix=/home/ved/b/install
+
+Name: chap5
+Description: Description of chap5
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ved/b/install/lib 
+Requires: 
